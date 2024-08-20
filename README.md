@@ -1,1 +1,3 @@
-# gitpullrequestnome eh wu
+# gitpullrequestnome
+Projeto Python Avançado
+Aluno: Wu
